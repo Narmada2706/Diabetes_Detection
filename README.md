@@ -32,6 +32,13 @@ This means when new data appears then it can be easily classified into a well su
 # Conclusion
 Diabetes mellitus is a disease, which can cause many complications. How to exactly predict and diagnose this disease by using machine learning is worthy studying.
 
+# Who am I?
+My Name is Narmada .I am Pursuing Third Year in Computer Science And Engineering from SGGS College Nanded.
+
+# Other Useful Links:
+https://www.linkedin.com/in/narmada-ugale-b411a61ab/
+
+
 
 
 
